@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MyWikiApplication {
 
     public static void main(String[] args) {
-        System.out.println("hello111wqdsadadsad" );
+        System.out.println("hello111wqdsadadsa1d" );
         SpringApplication.run(MyWikiApplication.class, args);
     }
 
